@@ -19,7 +19,7 @@ make
 
 **Test Server**
 
-Use a websocket tool to connect `ws://120.55.94.78:9988`, then send message.
+Use a websocket tool to connect `ws://101.37.25.166:9988`, then send message.
 
 
 
@@ -45,8 +45,8 @@ make
 
 **测试服务器**
 
-你可以使用任意 websocket 工具去连接地址 `ws://120.55.94.78:9988` 然后给它发消息即可。
+你可以使用任意 websocket 工具去连接地址 `ws://101.37.25.166:9988` 然后给它发消息即可。
 
 
 
-如果你对高性能服务器开发感兴趣，欢迎加入 QQ 群：`578019391`。
+如果你对高性能服务器开发感兴趣，欢迎加入微信交流群，微信：easy_coder。
